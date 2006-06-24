@@ -2,5 +2,6 @@ Rafb.pm
 Makefile.PL  
 MANIFEST  
 README  
-paste.pl
+test.pl
 code.pl
+CHANGELOG

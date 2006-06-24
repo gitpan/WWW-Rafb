@@ -35,7 +35,7 @@ This module requires B<LWP::UserAgent> and B<use URI::Escape>.
 #use strict;
 
 use vars qw/$VERSION/;
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 use LWP::UserAgent;
 use URI::Escape;
